@@ -1,0 +1,7 @@
+public class sum{
+    public static void main(String args[]){
+        int a = 4;
+        int b = 8;
+        System.out.print(a+b);
+    }
+}
